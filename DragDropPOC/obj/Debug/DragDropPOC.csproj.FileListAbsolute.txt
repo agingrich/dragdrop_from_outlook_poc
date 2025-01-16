@@ -1,0 +1,11 @@
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\bin\Debug\DragDropPOC.exe.config
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\bin\Debug\DragDropPOC.exe
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\bin\Debug\DragDropPOC.pdb
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.DocumentExplorer.resources
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.Form1.resources
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.Properties.Resources.resources
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.csproj.GenerateResource.cache
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.csproj.CoreCompileInputs.cache
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.exe
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.pdb
+C:\Users\tgingrich\source\repos\DragDropPOC\DragDropPOC\obj\Debug\DragDropPOC.DocumentDirectorySelector.resources
